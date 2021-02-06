@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [Delicious Bookmarks](https://github.com/zhidelev/delicious_bookmarks)
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhidelev&show_icons=true&theme=radical)
 
 
