@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on [Delicious Bookmarks](https://github.com/zhidelev/delicious_bookmarks)
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhidelev&show_icons=true&theme=radical)
 
+
+![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhidelev&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhidelev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
