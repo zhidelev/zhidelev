@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on [Delicious Bookmarks](https://github.com/zhidelev/delicious_bookmarks)
+- 🌱 I’m currently learning [Go-lang webservices](https://www.coursera.org/learn/golang-webservices-1/)
 
 
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhidelev&show_icons=true&theme=radical)
