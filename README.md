@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [Delicious Bookmarks](https://github.com/zhidelev/delicious_bookmarks)
-- 🌱 I’m currently learning [Go-lang webservices](https://www.coursera.org/learn/golang-webservices-1/)
+- 🔭 My small pet project is [Delicious Bookmarks](https://github.com/zhidelev/delicious_bookmarks)
+- 🌱 I’m currently learning [Go-lang webservices](https://www.coursera.org/learn/golang-webservices-1/) course
 
 
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhidelev&show_icons=true&theme=radical)
