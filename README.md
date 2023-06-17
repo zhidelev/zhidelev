@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhidelev&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhidelev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648e0b11779070ae62488cd0?variant=dark)](https://roadmap.sh)
